@@ -41,6 +41,12 @@ Short description of selected bugs with screenshots:
 
 ---
 
+## Testing Tools
+
+🔧 Chrome DevTools  
+📊 Google Sheets  
+🐙 GitHub
+
 ## Repository Structure
 ```text
 DevLovers-QA/
@@ -54,12 +60,4 @@ DevLovers-QA/
 │   ├── forgot_password/
 │   │   └── unregistered_email.png
 │   └── network/
-│       └── react_error_418.png
-
----
-
-## Testing Tools
-
-🔧 Chrome DevTools  
-📊 Google Sheets  
-🐙 GitHub  
+│       └── react_error_418.png  
