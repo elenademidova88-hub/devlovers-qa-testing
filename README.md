@@ -24,24 +24,16 @@ All QA checklists and bug reports are stored in a separate file:
 Short description of selected bugs with screenshots:
 
 - **Login (1.3)** — Required fields validation shows raw key  
-  ![Login bug](screenshots/login_form/Login – Required Fields Validation.png)
-  
-  ---
+  ![Login bug](screenshots/login_form/Login_Required_Fields_Validation.png)
 
 - **Registration (1.9)** — Password rules show raw validation key  
-  ![Registration bug](screenshots/registration)
-
-  ---
+  ![Registration bug](screenshots/registration/Password_rules_shows_raw_validation_key.png)
   
 - **Forgot Password (1.14)** — Unregistered email shows success message  
-  ![Forgot Password bug](screenshots/forgot_password/Forgot password.png)
-
-  ---
+  ![Forgot Password bug](screenshots/forgot_password/Forgot_password.png)
 
 - **Homepage / Network (7.2)** — React error #418 in JS requests  
-  ![Network bug](screenshots/network_console/React error #418 in JS requests.png)
-
-  ---
+  ![Network bug](screenshots/network_console/React_error_418_in_JS_requests.png)
 
 > More bugs and checklists are available in the Google Sheets linked above.
 
