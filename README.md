@@ -24,16 +24,24 @@ All QA checklists and bug reports are stored in a separate file:
 Short description of selected bugs with screenshots:
 
 - **Login (1.3)** — Required fields validation shows raw key  
-  ![Login bug](<img width="602" height="661" alt="Login – Required Fields Validation" src="https://github.com/user-attachments/assets/601d26b3-badf-4df0-b6f2-e3ebe728217f" />)
+  ![Login bug](screenshots/login_form/Login – Required Fields Validation.png)
+  
+  ---
 
 - **Registration (1.9)** — Password rules show raw validation key  
-  ![Registration bug](<img width="649" height="748" alt="Password rules shows raw validation key" src="https://github.com/user-attachments/assets/1ca7ae36-d578-40fc-bd3a-94db63c36981" />)
+  ![Registration bug](screenshots/registration)
 
+  ---
+  
 - **Forgot Password (1.14)** — Unregistered email shows success message  
-  ![Forgot Password bug](<img width="674" height="423" alt="Forgot password" src="https://github.com/user-attachments/assets/62edbbd7-ca3a-4966-b3d8-28daa13e5cee" />)
+  ![Forgot Password bug](screenshots/forgot_password/Forgot password.png)
+
+  ---
 
 - **Homepage / Network (7.2)** — React error #418 in JS requests  
-  ![Network bug](<img width="1905" height="794" alt="React error #418 in JS requests" src="https://github.com/user-attachments/assets/7ec7be1f-0b55-4339-9edf-d540d4293582" />)
+  ![Network bug](screenshots/network_console/React error #418 in JS requests.png)
+
+  ---
 
 > More bugs and checklists are available in the Google Sheets linked above.
 
