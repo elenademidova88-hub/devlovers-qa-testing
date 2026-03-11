@@ -1,19 +1,21 @@
-# DevLovers QA Testing
+# 🔎 DevLovers QA Testing
 
 QA testing documentation, checklists, and bug reports for the DevLovers platform.
 
 ## Overview
 This repository contains:
 
-- **Checklists** — step-by-step QA checklists for login, leaderboard, About, Blog, and other sections.
-- **Bug Reports** — short descriptions of found bugs with screenshots; full details in Google Sheets.
-- **Screenshots** — visual proof of bugs or UI issues.
+- ✅**Checklists** — step-by-step QA checklists for login, leaderboard, About, Blog, and other sections.
+- 🐞**Bug Reports** — short descriptions of found bugs with screenshots; full details in Google Sheets.
+- 📸**Screenshots** — visual proof of bugs or UI issues.
 
 Testing covers:
 
 - Manual testing of web functionality
 - Regression testing
 - Functional, UX, and network/console checks
+
+---
 
 ## Beta Testing Documentation
 All QA checklists and bug reports are stored in a separate file:
@@ -37,6 +39,8 @@ Short description of selected bugs with screenshots:
 
 > More bugs and checklists are available in the Google Sheets linked above.
 
+---
+
 ## Repository Structure
 ```text
 DevLovers-QA/
@@ -51,3 +55,9 @@ DevLovers-QA/
 │   │   └── unregistered_email.png
 │   └── network/
 │       └── react_error_418.png
+
+## Testing Tools
+
+🔧 Chrome DevTools  
+📊 Google Sheets  
+🐙 GitHub  
