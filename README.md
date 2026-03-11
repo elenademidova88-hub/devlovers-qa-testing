@@ -56,6 +56,8 @@ DevLovers-QA/
 │   └── network/
 │       └── react_error_418.png
 
+---
+
 ## Testing Tools
 
 🔧 Chrome DevTools  
